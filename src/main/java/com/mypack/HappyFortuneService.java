@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class HappyFortuneService implements FortuneService {
 
 	public void getDailyFortune() {
-		System.out.println("Happy day!! luck is on your way.");
+		System.out.println("Happy day!! !!! luck is on your way.");
 
 	}
 
